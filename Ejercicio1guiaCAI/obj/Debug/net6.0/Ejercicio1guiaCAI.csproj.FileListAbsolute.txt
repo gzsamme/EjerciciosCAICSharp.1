@@ -1,0 +1,15 @@
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\bin\Debug\net6.0\Ejercicio1guiaCAI.exe
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\bin\Debug\net6.0\Ejercicio1guiaCAI.deps.json
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\bin\Debug\net6.0\Ejercicio1guiaCAI.runtimeconfig.json
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\bin\Debug\net6.0\Ejercicio1guiaCAI.dll
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\bin\Debug\net6.0\Ejercicio1guiaCAI.pdb
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\obj\Debug\net6.0\Ejercicio1guiaCAI.csproj.AssemblyReference.cache
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\obj\Debug\net6.0\Ejercicio1guiaCAI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\obj\Debug\net6.0\Ejercicio1guiaCAI.AssemblyInfoInputs.cache
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\obj\Debug\net6.0\Ejercicio1guiaCAI.AssemblyInfo.cs
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\obj\Debug\net6.0\Ejercicio1guiaCAI.csproj.CoreCompileInputs.cache
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\obj\Debug\net6.0\Ejercicio1guiaCAI.dll
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\obj\Debug\net6.0\refint\Ejercicio1guiaCAI.dll
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\obj\Debug\net6.0\Ejercicio1guiaCAI.pdb
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\obj\Debug\net6.0\Ejercicio1guiaCAI.genruntimeconfig.cache
+D:\Facultad\CAI\EjerciciosCAICSharp1\Ejercicio1guiaCAI\obj\Debug\net6.0\ref\Ejercicio1guiaCAI.dll
